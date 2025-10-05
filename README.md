@@ -26,14 +26,13 @@ pip install -r requirements.txt
 ```
 # Recommended Dependencies
 
--pandas
--requests
--beautifulsoup4
--lxml
--tqdm
--scikit-learn
--matplotlib
--seaborn
--nltk or spacy (for keyword extraction)
--
-python-dateutil
+- `pandas`
+- `requests`
+- `beautifulsoup4`
+- `lxml`
+- `tqdm`
+- `scikit-learn`
+- `matplotlib`
+- `seaborn`
+- `nltk` or `spacy` (for keyword extraction)
+- `python-dateutil`
