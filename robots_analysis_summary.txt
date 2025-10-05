@@ -1,0 +1,5 @@
+https://www.bordeaux-metropole.fr/agenda?timings%5Bgte%5D=2025-08-31T23%3A00%3A00.000Z&timings%5Blte%5D=2025-09-30T22%3A59%3A59.999Z&timings%5Btz%5D=Africa%2FTunis -> status: 200, parsed_lines: 42, error: None
+https://www.bordeaux-tourisme.com/agenda.html?date_start=2025-09-01&date_end=2025-09-30 -> status: 200, parsed_lines: 52, error: None
+https://www.bordeaux.fr/evenements?keywords=&field_datetime_range_1=All&field_datetime_range%5Bmin%5D=2025-09-01&field_datetime_range%5Bmax%5D=2025-09-30&items_per_page=50&sort_bef_combine=field_datetime_range_1_ASC -> status: 200, parsed_lines: 31, error: None
+https://www.guide-bordeaux-gironde.com/fr/agenda.html?dates=2025-09-01%3A2025-09-30 -> status: 200, parsed_lines: 25, error: None
+https://www.eventbrite.fr/d/france--bordeaux/all-events/?page=1&start_date=2025-09-01&end_date=2025-09-30 -> status: 200, parsed_lines: 192, error: None

@@ -1,0 +1,50 @@
+# Requirements pour MeetingPotes - Scraping d'événements Bordelais
+# Base
+requests==2.32.5
+pandas==2.3.2
+beautifulsoup4==4.12.2
+selenium==4.15.2
+lxml==4.9.3
+
+# Traitement de données et dates
+dateparser==1.2.2
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.2
+tzlocal==5.3.1
+
+# NLP et traitement de texte
+spacy==3.8.7
+fr-core-news-sm==3.8.0
+fr-core-news-md==3.8.0
+regex==2025.8.29
+
+# Géocodage et traitement géospatial
+geopy==2.4.1
+geopandas==1.1.1
+shapely==2.1.1
+pyproj==3.7.2
+pyogrio==0.11.1
+
+# Visualisation
+matplotlib==3.10.6
+seaborn==0.13.2
+folium==0.20.0
+branca==0.8.1
+contextily==1.6.2
+
+# Utilitaires
+numpy==2.3.2
+scipy==1.14.1
+tqdm==4.67.1
+joblib==1.5.2
+pillow==11.3.0
+
+# Dépendances supplémentaires
+jinja2==3.1.6
+markupsafe==3.0.2
+click==8.2.1
+certifi==2025.8.3
+urllib3==2.5.0
+charset-normalizer==3.4.3
+idna==3.10
